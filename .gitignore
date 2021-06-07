@@ -1,5 +1,6 @@
 /.vscode
 /build
+/src/.vscode
 data/capsule.obj
 data/img1.png
 data/img2.jpg
